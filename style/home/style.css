@@ -430,7 +430,7 @@ body > .sidebar{
     flex-direction: column;
     align-items: start;
     align-content: start;
-    display: block;
+    display: none;
 }
 .sidebar > img{
     padding: 10px;
