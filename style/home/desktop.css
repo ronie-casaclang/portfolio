@@ -1,0 +1,18 @@
+:root{
+    --primary: #f0f0f0;
+    --secondary: #171717;
+    --tertiary: #C00000;
+    --gray: #9C9C9C;
+}
+@font-face {
+    font-family: 'New';
+    src: url('https://fonts.google.com/share?selection.family=Cantarell:ital,wght@0,400;0,700;1,400;1,700');
+}
+
+
+
+
+
+@media only screen and (min-width:1200px){
+    .section2, .section3, .section4{ padding: 50px 20% 70px; width: 100%;}
+}
